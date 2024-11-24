@@ -6,4 +6,4 @@
 ### 2b. slurm_batch_modeling.sh - shell script for scheduling batches of score_sentiment.py runs 
 ### 2c. unit_testing_score_sentiment.py - unit testing score_sentiment.py 
 ## /variable_preprocessing/ 
-### 1. variable_creation.R - finalizing variables for analyses 
+### 1. variable_creation.R - finalizing variables/features for analyses 
